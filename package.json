@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-nexweave-widget",
+  "version": "1.0.0",
+  "keywords": [
+    "nexweave"
+  ],
+  "description": "The base  template for creating custom nexweave widgets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexweave/cra-template-nexweave-widget"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/nexweave/cra-template-nexweave-widget/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

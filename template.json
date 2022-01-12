@@ -1,0 +1,8 @@
+{
+  "package": {
+    "dependencies": {
+      "eslint-plugin-jsx-a11y": "^6.2.3",
+      "serve": "^11.2.0"
+    }
+  }
+}
